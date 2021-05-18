@@ -13,6 +13,13 @@
       </a>
     </li>
   {% endif %}
+  {% if site.tiktok %}
+    <li class='c-social-nav__item'>
+      <a href='{{ site.tiktok }}' aria-label='TikTok' target='_blank' rel='noopener'>
+        <span class='c-social-nav__icon' data-icon='ei-sc-tumblr' data-size='s'></span>
+      </a>
+    </li>
+  {% endif %}
   {% if site.instagram %}
     <li class='c-social-nav__item'>
       <a href='{{ site.instagram }}' aria-label='Instagram' target='_blank' rel='noopener'>
@@ -20,9 +27,9 @@
       </a>
     </li>
   {% endif %}
-  <li class='c-social-nav__item'>
+  <!-- <li class='c-social-nav__item'>
     <a class='toggle-search-button js-search-toggle' href='#' aria-label='Search'>
       <span class='c-social-nav__icon' data-icon='ei-search' data-size='s'></span>
     </a>
-  </li>
+  </li> -->
 </ul>

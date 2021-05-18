@@ -13,3 +13,25 @@ I bought my first bitcoin in 2012. I was desperate to find a certain empathy-ind
 <p>Invite the thoughts leaders in the blockchain revolution for a coffee date and hit “record” on my zoomH6. Which is pretty much all I know how to do for a podcast. This is why I love and rely on the collaborative efforts of CBP.</p>
 <p>To encourage creativity and self-guided learning to foster innovation. To cultivate community beautification using eco-friendly and self-sustaining systems. To add value to the lives of the people I love and interact with.
 <p>I believe blockchain technology has the potential to eradicate racism. As an early adopter we have the responsibility to shape.</p>
+
+<h3>PGP</h3>
+
+<p>camillecorti@gmail.com</p>
+
+<pre>-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v2.0.22 (MingW32)
+mQENBGCR78gBCACdDjhKtxL+Xx5LDMHRRJvGReC0QNc5joRwlH0hP9jpj5OK/zHs
+1nBNiqz5Ir69/l4EgfmQHhIX7WT7Ha2RHAWNQHw2NII6rxD0S/GNfYqdY/d9LBB3
+ZsAx3JLL1ADE0UwMVD4WX4ihohcBSztw69Lneb3U/NLtixw2hgG5cDom/pouuYoB
+bP1YPHr6AS0nQq3C3NwgdNGyxO/8pBFIrIq38wJKHA0Us2wZt82316SFd/6XVgQp
+UYymPon3dPmVnGbLBSTbLFL1FlFmBletF8uqsMakVVft69wyr7AwNgyEM2NOz68f
+BtnuXq3pjOlYflfVrXbAnxycIjMazP3+p8VLABEBAAG0IENhbWlsbGUgPGNhbWls
+bGVjb3J0aUBnbWFpbC5jb20+iQE5BBMBAgAjBQJgke/IAhsPBwsJCAcDAgEGFQgC
+CQoLBBYCAwECHgECF4AACgkQthD7BKDa8SdmAwf/bKwO4B0j8xkDW0UdLKCF2XdM
+oyfJzvZN+ln/0FN2expeFdEkJqPt19uDQ/i/N99xIYtlx4OufuV3J+CA+Puyy3fd
+PowkBiJcHT3kgYI8IzlQTDhibTlibZokq1CtxZk9NpQtbPLlQoZ3oMJWc1uNGzg7
+QueNcypgGwaegdciBaOZtOnqtSscWoV0B3deAkfC0akITBaKsGS0rGGYDcgf0TuM
+YTEl9iqlwreymKxDLj/O5oO7Y/fRzoBudUNFibPGVKX+FrEJ9QPKeem8LYnvrW8J
+puQOJb5+lto4CEItuh5EeWdYi9xGMJWR5rdv81eHhFA22WfK5D3peUHm/rgc0A==
+=JOf9
+-----END PGP PUBLIC KEY BLOCK-----</pre>
